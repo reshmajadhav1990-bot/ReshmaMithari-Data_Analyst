@@ -60,6 +60,34 @@ SQL code and output
 <img width="1040" height="555" alt="Question3_Query_Output" src="https://github.com/user-attachments/assets/e12c9e03-bf42-4c90-a32e-a286f2257321" />
 
 
+3) ORDER RELATED QUERIES:
+
+Query 01: Retrieve all orders placed on a specific date?
+
+SQL code and output
+<img width="1357" height="454" alt="Question1_Query_Output" src="https://github.com/user-attachments/assets/f0bee1d8-f08a-40db-9c8c-44267c81f67a" />
+
+
+Query 02: Find the total revenue generated from all orders?
+
+SQL code and output
+<img width="867" height="331" alt="Question2_Query_Output" src="https://github.com/user-attachments/assets/8cd4d8d1-d642-44f7-b85d-58c9aa2bbaa5" />
+
+
+Query 03: Get details of the most recent order placed by a specific customer?
+
+SQL code and output
+<img width="1356" height="406" alt="Question3_Query_Output" src="https://github.com/user-attachments/assets/0744d232-b447-4c98-99d6-d92d5f9eeaf7" />
+
+
+Query 04: List products included in a particular order?
+
+SQL code and output
+<img width="1200" height="467" alt="Question4_Query_Output" src="https://github.com/user-attachments/assets/58abfaea-fbe2-4376-960e-ddc7a64b61c9" />
+
+
+
+
 
 
 
