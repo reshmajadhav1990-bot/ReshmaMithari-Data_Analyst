@@ -16,12 +16,10 @@ Query 01 output
 <img width="643" height="296" alt="Question1_Output" src="https://github.com/user-attachments/assets/edc9fcc0-e0cc-449f-86f0-b2826cc1cc73" />
 
 
-
 Query 02: Identify customers who have not placed any orders?
 
 SQL code and output
 <img width="1034" height="452" alt="Question2_Output" src="https://github.com/user-attachments/assets/263602c4-859d-4898-b029-093465a04a52" />
-
 
 
 Query 03: Calculate the total number of orders placed by each customer?
@@ -30,10 +28,40 @@ SQL code and output
 <img width="1039" height="561" alt="Question3_Query_Output" src="https://github.com/user-attachments/assets/3cb1b540-c13c-4efd-8d32-3abc08f568b7" />
 
 
-
 Query 04: Calculate the total number of orders placed by each customer (Top 10)?
 
 SQL code and output
 <img width="1045" height="559" alt="Question4_Query_Output" src="https://github.com/user-attachments/assets/399889cd-f6f9-4940-9bef-deefe39bf6ec" />
+
+
+2) PRODUCT RELATED QUERIES:
+
+Query 01: List all products and their prices?
+
+SQL code and output
+<img width="1041" height="552" alt="Question1_Query_Output" src="https://github.com/user-attachments/assets/6c689c4e-15ba-447d-8f5d-285733ad4a98" />
+
+
+Query 02: List all products and their prices (TOP 10)?
+
+SQL code and output
+<img width="1044" height="556" alt="Question1_Query_OutputTop10" src="https://github.com/user-attachments/assets/75149604-0dab-4de3-b130-c899b8c6dfd7" />
+
+
+Query 03: Calculate the average price of products in each category?
+
+SQL code and output
+<img width="1048" height="557" alt="Question2_Query_Output" src="https://github.com/user-attachments/assets/11bd36be-871f-4835-9824-8c9c13a17453" />
+
+
+Query 04: Finding Top-Selling Products?
+
+SQL code and output
+<img width="1040" height="555" alt="Question3_Query_Output" src="https://github.com/user-attachments/assets/e12c9e03-bf42-4c90-a32e-a286f2257321" />
+
+
+
+
+
 
 
