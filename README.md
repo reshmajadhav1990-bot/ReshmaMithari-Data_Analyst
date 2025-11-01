@@ -16,16 +16,19 @@ Query 01 output
 <img width="643" height="296" alt="Question1_Output" src="https://github.com/user-attachments/assets/edc9fcc0-e0cc-449f-86f0-b2826cc1cc73" />
 
 
+
 Query 02: Identify customers who have not placed any orders?
 
 SQL code and output
 <img width="1034" height="452" alt="Question2_Output" src="https://github.com/user-attachments/assets/263602c4-859d-4898-b029-093465a04a52" />
 
 
+
 Query 03: Calculate the total number of orders placed by each customer?
 
 SQL code and output
 <img width="1039" height="561" alt="Question3_Query_Output" src="https://github.com/user-attachments/assets/3cb1b540-c13c-4efd-8d32-3abc08f568b7" />
+
 
 
 Query 04: Calculate the total number of orders placed by each customer (Top 10)?
