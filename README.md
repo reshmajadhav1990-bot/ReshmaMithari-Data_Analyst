@@ -11,8 +11,10 @@ Query 01: Find customers who have placed orders in the last 30 days?
 SQL code
 <img width="1040" height="376" alt="Question1_Query" src="https://github.com/user-attachments/assets/d3aecd1f-718d-46e8-8ddc-b4730e740c7c" />
 
+
 Query 01 output
 <img width="643" height="296" alt="Question1_Output" src="https://github.com/user-attachments/assets/e14c19e4-fe5c-4016-ab46-94192db27a3a" />
+
 
 
 Query 02: Identify customers who have not placed any orders?
