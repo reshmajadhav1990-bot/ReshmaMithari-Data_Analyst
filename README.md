@@ -12,6 +12,7 @@ SQL code
 <img width="1040" height="376" alt="Question1_Query" src="https://github.com/user-attachments/assets/d3aecd1f-718d-46e8-8ddc-b4730e740c7c" />
 
 Query 01 output
+
 <img width="643" height="296" alt="Question1_Output" src="https://github.com/user-attachments/assets/edc9fcc0-e0cc-449f-86f0-b2826cc1cc73" />
 
 
