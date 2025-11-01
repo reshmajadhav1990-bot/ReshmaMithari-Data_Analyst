@@ -86,6 +86,53 @@ SQL code and output
 <img width="1200" height="467" alt="Question4_Query_Output" src="https://github.com/user-attachments/assets/58abfaea-fbe2-4376-960e-ddc7a64b61c9" />
 
 
+4) SUBQUERIES WITH AGGREGATE FUNCTION:
+
+Query 01: Retrieving Orders with a Total Value Exceeding a Specific Amount?
+
+SQL code and output
+<img width="1339" height="544" alt="Question1_Query_Output" src="https://github.com/user-attachments/assets/de096fb5-3fb4-46c0-924d-92c380af3d1a" />
+
+
+5) CREATING VIEW FOR ANALYSIS:
+
+Query 01: Creating view for analysis
+
+SQL code
+<img width="1325" height="361" alt="Query" src="https://github.com/user-attachments/assets/403e5b6f-3979-4852-ae28-ebe2b42a582c" />
+
+
+Output
+<img width="1317" height="555" alt="Output" src="https://github.com/user-attachments/assets/083b2d63-1d1e-48bd-a139-c633b32b6b3b" />
+
+
+<img width="1364" height="388" alt="HighValueCustomers Screenshot" src="https://github.com/user-attachments/assets/41ca2b14-b500-4709-9037-8a2387014ab5" />
+
+
+6) OPTIMIZING QUERIES WITH INDEXES:
+
+Query 01: Optimizing Queries with Indexes
+
+SQL code
+<img width="1335" height="431" alt="Query" src="https://github.com/user-attachments/assets/9f91cf25-252e-46e0-aa92-8615f16faff9" />
+
+
+Output
+<img width="1355" height="418" alt="Optimizing Queries wuth Indexes_OUTPUT" src="https://github.com/user-attachments/assets/b51ce1c5-404c-4f03-ad90-a45c2c16fdda" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
