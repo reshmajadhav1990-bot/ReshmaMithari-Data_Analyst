@@ -1,6 +1,6 @@
-This project contains an eCommerce dataset that I will explore using SQL on DB Browser for SQLite.
+This project contains an Online Sales dataset that I will explore using SQL on DB Browser for SQLite.
 
-The data I'll analyze comes from Olist, a Brazilian e-commerce platform that connects small businesses to larger product marketplaces. Olist published a dataset containing 99441 orders from March 2016 to August 2018. The data is anonymized, so it doesn't contain names for buyers, sellers or products.
+This dataset provides a comprehensive overview of online sales transactions across different product categories. Each row represents a single transaction with detailed information such as the order ID, date, category, product name, quantity sold, unit price, total price, region, and payment method.
 
 In this project, I will write queries in DB Browser for SQLite.
 
